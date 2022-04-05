@@ -1,7 +1,5 @@
 # Minimum rotations required to get the same string
 
-# Difficulty Level : Medium
-
 # Given a string, we need to find the minimum number of rotations required to get the same string.
 
 # Examples: 
