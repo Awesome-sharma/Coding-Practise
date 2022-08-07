@@ -50,8 +50,8 @@ for i in range(len(B)): # 3
     print("Best Hotel in budget range",B[i][0],"to",B[i][1],"is -> ",Hotel,Price,Rating)
     
     
-    
-# Input --
+# Test Case
+# Input
 # 1 
 # 4 3 
 # a 1000 7.6 
