@@ -20,7 +20,4 @@
 def isPalindrome(self, x: int) -> bool:
     x = str(x)
     x1 = x[::-1]
-    if x==x1:
-        return True
-    else:
-        return False
+    return True if x==x1 else False
